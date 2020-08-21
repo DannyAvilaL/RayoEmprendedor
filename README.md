@@ -15,3 +15,6 @@ pip install pygame
 ```
 
 En caso de ya tenerlo instalado, simplemente con ejecutar el programa debería de ser suficiente para no presentar problemas.
+
+
+[![Run on Repl.it](https://repl.it/badge/github/DannyAvilaL/RayoEmprendedor)](https://repl.it/github/DannyAvilaL/RayoEmprendedor)
